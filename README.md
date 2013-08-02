@@ -1,7 +1,7 @@
-UIActivityANE
+ActionSheetANE
 =============
 
-UIACtionSheet Native Extension for Adobe AIR
+UIActionSheet Native Extension for Adobe AIR
 
 ##Usage
 	import net.nodera.ane.ActionSheetANE;
