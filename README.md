@@ -3,8 +3,6 @@ UIActivityANE
 
 UIACtionSheet Native Extension for Adobe AIR
 
-This Native Extension require iOS6+ and Adobe AIR 3.5+!!
-
 ##Usage
 	import net.nodera.ane.ActionSheetANE;
 	import net.nodera.ane.event.ActionSheetEvent;
