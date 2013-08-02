@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.5.1" build="21328" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="net/nodera/ane/ActionSheetANE" mod="1360317911000" signatureChecksum="3145355114" >
+        <def id="net.nodera.ane:ActionSheetANE" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_89319625d821d0ec9ace39fde4dc1384c7df3f3de73d4f3bed57115ed44d816c_flash_display_Sprite" mod="1360317912194" signatureChecksum="1628273625" >
+        <def id="_89319625d821d0ec9ace39fde4dc1384c7df3f3de73d4f3bed57115ed44d816c_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="6f91c7b86fa31f5d42d3ffbe223557c0da66979bdfc6736a60249f13957ac7b1"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

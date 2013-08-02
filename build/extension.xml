@@ -1,0 +1,23 @@
+<extension xmlns="http://ns.adobe.com/air/extension/2.5">
+  <id>net.nodera.ane.ActionSheetANE</id>
+  <versionNumber>0.0.1</versionNumber>
+  <platforms>
+    <platform name="iPhone-ARM">
+      <applicationDeployment>
+        <nativeLibrary>libActionSheetANE.a</nativeLibrary>
+          <initializer>ActionSheetExtInitializer</initializer>
+          <finalizer>ActionSheetExtFinalizer</finalizer>
+      </applicationDeployment>
+    </platform>
+	  <platform name="iPhone-x86"> 
+      <applicationDeployment>
+        <nativeLibrary>libActionSheetANE.a</nativeLibrary>
+          <initializer>ActionSheetExtInitializer</initializer>
+          <finalizer>ActionSheetExtFinalizer</finalizer>
+      </applicationDeployment>
+    </platform>
+    <platform name="default"> 
+      <applicationDeployment/> 
+    </platform>
+  </platforms>
+</extension>
